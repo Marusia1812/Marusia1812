@@ -1,5 +1,5 @@
 <h1>Greetings, I am Marusia!</h1>
-<h3> 🎓 I'm currently a third-year student majoring a Bachelor of Science in Web Development and Databases at Charles University's Faculty of Informatics </h3>
+<h3> 🎓 I'm currently a third-year student majoring in Bachelor of Science in Web Development and Databases at Charles University's Faculty of Informatics </h3>
 <h2>👩🏽‍💻 My Student's Projects:</h2>
 
 - <b>Database and Data Analysis Projects</b>
