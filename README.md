@@ -3,7 +3,7 @@
 <h2>👩🏽‍💻 My Student Projects:</h2>
 
 - <b>Database and Data Analysis Projects</b>
-  - [MySQL Document Store Exploration Project: Unifying Data Formats](https://github.com/Marusia1812/modern_db_systems)
+  - [MySQL Document Store Exploration Project: Unifying Data Formats](https://github.com/Marusia1812/modern_db_systems/tree/main/mySQL_document_store_project)
   - [Data Processing and Semantic Analysis Framework](https://github.com/Marusia1812/intro_to_data_engeneering)
    
 - <b>Java</b>
