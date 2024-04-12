@@ -2,12 +2,16 @@
 <h3> 🎓 I'm currently a third-year student majoring in Bachelor of Science in Web Development and Databases at Charles University's Faculty of Informatics </h3>
 <h2>👩🏽‍💻 My Student Projects:</h2>
 
-
-- <b>Database and Data Analysis Projects</b>
+- <b>Data Analysis and Data Science Projects</b>
   - [MySQL Document Store Exploration Project: Unifying Data Formats](https://github.com/Marusia1812/modern_db_systems)
     - **_Tech Stack:_** Python, MySQL, JSON
   - [Data Processing and Semantic Analysis Framework](https://github.com/Marusia1812/intro_to_data_engeneering)
-    - **_Tech Stack:_** Python, rdflib, SDMX, Data Cube, DCAT, SKOS, RDF, SPARQL 
+    - **_Tech Stack:_** Python, rdflib, SDMX, Data Cube, DCAT, SKOS, RDF, SPARQL
+  - [In-Depth Analysis of Tennis Matches](https://github.com/Marusia1812/dataScience)
+    - **_Tech Stack:_** Python, Jupyter Notebook, Pandas, Matplotlib, Seaborn
+- <b>C++ Projects</b>
+  - [Library Simulation Project in C++](https://github.com/Marusia1812/cpp)
+    - **_Tech Stack:_** C++
 - <b>Java</b>
   - [Finance Tracker App](https://github.com/Marusia1812/java/tree/main/finance_tracker_app)
   - [Chord Generator](https://github.com/Marusia1812/java/tree/main/chord_generator)
