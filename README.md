@@ -9,12 +9,13 @@
     - **_Tech Stack:_** Python, rdflib, SDMX, Data Cube, DCAT, SKOS, RDF, SPARQL
   - [In-Depth Analysis of Tennis Matches](https://github.com/Marusia1812/dataScience)
     - **_Tech Stack:_** Python, Jupyter Notebook, Pandas, Matplotlib, Seaborn
-- <b>C++ Projects</b>
+- <b>Statistical Researches</b>
+  - [Statistical Exploration: Music's Impact on Mental Health](https://www.kaggle.com/code/mariachinkova/past1/notebook)
+    - **_Tech Stack:_** Python
+- <b>C++</b>
   - [Library Simulation Project in C++](https://github.com/Marusia1812/cpp)
     - **_Tech Stack:_** C++
 - <b>Java</b>
   - [Finance Tracker App](https://github.com/Marusia1812/java/tree/main/finance_tracker_app)
   - [Chord Generator](https://github.com/Marusia1812/java/tree/main/chord_generator)
-- <b>Statistical Researches</b>
-  - [Statistical Exploration: Music's Impact on Mental Health](https://www.kaggle.com/code/mariachinkova/past1/notebook)
-    - **_Tech Stack:_** Python
+
