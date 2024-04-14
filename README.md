@@ -14,7 +14,6 @@
     - **_Tech Stack:_** Python
 - <b>C++</b>
   - [Library Simulation Project in C++](https://github.com/Marusia1812/cpp)
-    - **_Tech Stack:_** C++
 - <b>Java</b>
   - [Finance Tracker App](https://github.com/Marusia1812/java/tree/main/finance_tracker_app)
   - [Chord Generator](https://github.com/Marusia1812/java/tree/main/chord_generator)
